@@ -85,14 +85,17 @@ I used matplotlib to display:
 
 
 #### **NIfTI Slices**  
-![nii](.\imgs\nifti_slices.png)
+
+<img src=".\imgs\nifti_slices.png" alt="nii" width="600" height="200">
 
 #### **DICOM Slices**  
-This one has some issues, due to discrepency in the number of slices, the image appears cropped. Further, it appears broken with lines across (not sure why) 
-![dcm](.\imgs\dicom_slices.png)
+This one has some issues, due to discrepency in the number of slices, the image appears cropped. Further, it appears broken with lines across (not sure why)
+
+<img src=".\imgs\dicom_slices.png" alt="dcm" width="600" height="200">
 
 #### **Slider**  
-![nii](.\imgs\slider.gif)
+
+<img src=".\imgs\slider.gif" alt="slider" width="600" height="200">
 
 ### **Animated GIFs**
 <img src=".\imgs\nii_ani_axi.gif" alt="gif_preview" width="200" height="150">
