@@ -95,7 +95,7 @@ This one has some issues, due to discrepency in the number of slices, the image 
 
 #### **Slider**  
 
-<img src=".\imgs\slider.gif" alt="slider" width="600" height="200">
+<img src=".\imgs\slider.gif" alt="slider" width="350" height="350">
 
 ### **Animated GIFs**
 <img src=".\imgs\nii_ani_axi.gif" alt="gif_preview" width="200" height="150">
