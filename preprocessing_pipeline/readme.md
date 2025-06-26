@@ -115,7 +115,6 @@ We implemented a standard MRI preprocessing pipeline, incorporating best practic
 - [SimpleITK N4BiasFieldCorrection](https://simpleitk.readthedocs.io/en/master/link_N4BiasFieldCorrection_docs.html)
 - [TorchIO: Medical Image Augmentation](https://torchio.readthedocs.io/)
 - [Neuroimaging Preprocessing Best Practices](https://www.frontiersin.org/articles/10.3389/fninf.2017.00037/full)
-- Research papers included as PDFs in this folder.
 
 
 ## Team Members
