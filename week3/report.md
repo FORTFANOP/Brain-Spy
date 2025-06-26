@@ -13,10 +13,10 @@ The report includes training-validation plots, confusion matrices, ROC curves, a
 
 | Model       | Parameters | Accuracy | Precision | Recall | F1 Score |
 |-------------|------------|----------|-----------|--------|----------|
-| ANN         | ...        | ...%     | ...       | ...    | ...      |
+| ANN         |	3,683,850  | 55%     | 0.56      | 0.55   | 0.55     |
 | CNN         | 338,506    | 52.65%   | 0.5846    | 0.5265 | 0.5054   |
 | LeNet       | 62,006     | 56.00%   | 0.56      | 0.56   | 0.56     |
-| AlexNet     | ...        | ...%     | ...       | ...    | ...      |
+| AlexNet     | 12,437,834 | 81%      | 0.82      | 0.81   | 0.81    |
 | VGG16       | 14,714,688 | 83.99%   | 0.8538    | 0.8399 | 0.8431   |
 | VGG19       | 20,275,274 | 85.00%   | 0.86      | 0.85   | 0.85     |
 | ResNet50    | 23,587,712 | 94.07%   | 0.9411    | 0.9407 | 0.9408   |
@@ -34,8 +34,8 @@ The report includes training-validation plots, confusion matrices, ROC curves, a
 
 <table>
 <tr>
-<td><img src="images/ann_conf_matrix.png" alt="ANN Confusion Matrix" width="800"/></td>
-<td><img src="images/ann_roc.png" alt="ANN ROC Curve" width="800"/></td>
+<td><img src="Performance/ann_conf_matrix.png" alt="ANN Confusion Matrix" width="800"/></td>
+<td><img src="Performance/ann_roc.png" alt="ANN ROC Curve" width="800"/></td>
 </tr>
 <tr>
 <td align="center"><b>Confusion Matrix</b></td>
@@ -79,8 +79,8 @@ The report includes training-validation plots, confusion matrices, ROC curves, a
 
 <table>
 <tr>
-<td><img src="images/alexnet_conf_matrix.png" alt="AlexNet Confusion Matrix" width="800"/></td>
-<td><img src="images/alexnet_roc.png" alt="AlexNet ROC Curve" width="800"/></td>
+<td><img src="Performance/alexnet_conf_matrix.png" alt="AlexNet Confusion Matrix" width="800"/></td>
+<td><img src="Performance/alexnet_roc.png" alt="AlexNet ROC Curve" width="800"/></td>
 </tr>
 <tr>
 <td align="center"><b>Confusion Matrix</b></td>
@@ -154,10 +154,10 @@ The report includes training-validation plots, confusion matrices, ROC curves, a
 
 | Model       | Loss Curve |
 |-------------|------------|
-| ANN         | ![](images/ann_loss_curve.png) |
+| ANN         | ![](Performance/ann_loss_curve.png) |
 | CNN         | ![](Performance/LOSS_CNN.png) |
 | LeNet       | ![](Performance/lenet5_curves.png) |
-| AlexNet     | ![](images/alexnet_loss_curve.png) |
+| AlexNet     | ![](Performance/alexnet_loss_curve.png) |
 | VGG16       | ![](Performance/LOSS_Vgg16.png) |
 | VGG19       | ![](Performance/vgg19_curves.png) |
 | ResNet50    | ![](Performance/LOSS_Resnet50.png) |
